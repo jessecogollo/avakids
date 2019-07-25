@@ -29,8 +29,7 @@ Evento con Lilypad
 [Video ejercicio 1](https://www.dropbox.com/s/5pxhul3jm26muo9/ejercicio1.mp4?dl=0)
 
 2. ### construyendo el esqueleto de una rana (Nivel: Intermedio)
-
-#### accesorios:
+    #### accesorios:
 
 * 1 - lilypad celdas de bateria.
 * 1 - Lilypad button.
@@ -40,8 +39,7 @@ Evento con Lilypad
 [Videos ejercicio 2](https://www.dropbox.com/s/l7hlaav5vl95d5w/ejercicio2.mp4?dl=0)
 
 3. ### Construyendo el esqueleto de un banderin y/o ranita inteligente (Nivel: Avanzado)
-
-#### accesorios:
+    #### accesorios:
 
 * 1 - Lilypad arduino USB.
 * 1 - lilypad celda de bateria.
